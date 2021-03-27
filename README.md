@@ -32,19 +32,12 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 
 ## File Descriptions
 This repo contains 8 files(including readme). 
-- `Starbucks Capstone notebook` : Project_5.ipynb .
-- `An html file for better view` : Project_5.html .
-- `Data` :
-    - 1. Profile.json
-    - 2. Portfolio.json
-    - 3. transcript.json 
-- `Model` : Trained model with accuracy 81%
-- `Cleaned Dataset` : df_cleaned_final.csv
+- `Coursera_Capstone` : Jupyter.ipynb .
+- `A pdf file` : Report.pdf .
  
 ## Links for project :
-- **LINK OF GITHUB REPOSITORY** [here](https://github.com/dheerajpant/Project5)
-
-- **LINK OF BLOG POST** [here](https://dheerajpant.github.io/blog/)
+- **LINK OF GITHUB REPOSITORY** [here](https://github.com/dheerajpant/Coursera_Capstone)
+- **LINK OF COURSERA** [here](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
 ## Licensing, Authors, Acknowledgements .
