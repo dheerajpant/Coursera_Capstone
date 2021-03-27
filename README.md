@@ -32,7 +32,8 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 
 ## File Descriptions
 This repo contains following files(including readme). 
-- `Coursera_Capstone` : Jupyter.ipynb .
+- `Coursera_Capstone` : 
+   - Hello Capstone Project Course.ipynb .
 - `A pdf file` : Report.pdf .
 - `ReadMe` : ReadMe.md
  
