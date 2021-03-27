@@ -31,9 +31,10 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - keras 
 
 ## File Descriptions
-This repo contains 8 files(including readme). 
+This repo contains following files(including readme). 
 - `Coursera_Capstone` : Jupyter.ipynb .
 - `A pdf file` : Report.pdf .
+- `ReadMe` : ReadMe.md
  
 ## Links for project :
 - **LINK OF GITHUB REPOSITORY** [here](https://github.com/dheerajpant/Coursera_Capstone)
