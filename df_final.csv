@@ -1,104 +1,87 @@
-,PostalCode,Borough,Neighborhood,Latitude,Longitude
-0,M3A,North York,Parkwoods,43.7532586,-79.3296565
-1,M4A,North York,Victoria Village,43.725882299999995,-79.31557159999998
-2,M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359
-3,M6A,North York,"Lawrence Manor, Lawrence Heights",43.718517999999996,-79.46476329999999
-4,M7A,Queen's Park,Ontario Provincial Government,43.6623015,-79.3894938
-5,M9A,Etobicoke,Islington Avenue,43.6678556,-79.53224240000002
-6,M1B,Scarborough,"Malvern, Rouge",43.806686299999996,-79.19435340000001
-7,M3B,North York,Don Mills North,43.745905799999996,-79.352188
-8,M4B,East York,"Parkview Hill, Woodbine Gardens",43.7063972,-79.309937
-9,M5B,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.37893709999999
-10,M6B,North York,Glencairn,43.709577,-79.44507259999999
-11,M9B,Etobicoke,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.6509432,-79.55472440000001
-12,M1C,Scarborough,"Rouge Hill, Port Union, Highland Creek",43.7845351,-79.16049709999999
-13,M3C,North York,Don Mills South,43.72589970000001,-79.340923
-14,M4C,East York,Woodbine Heights,43.695343900000005,-79.3183887
-15,M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179
-16,M6C,York,Humewood-Cedarvale,43.6937813,-79.42819140000002
-17,M9C,Etobicoke,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.6435152,-79.57720079999999
-18,M1E,Scarborough,"Guildwood, Morningside, West Hill",43.7635726,-79.1887115
-19,M4E,East Toronto,The Beaches,43.67635739999999,-79.2930312
-20,M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064
-21,M6E,York,Caledonia-Fairbanks,43.6890256,-79.453512
-22,M1G,Scarborough,Woburn,43.7709921,-79.21691740000001
-23,M4G,East York,Leaside,43.7090604,-79.3634517
-24,M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826
-25,M6G,Downtown Toronto,Christie,43.669542,-79.4225637
-26,M1H,Scarborough,Cedarbrae,43.773136,-79.23947609999999
-27,M2H,North York,Hillcrest Village,43.8037622,-79.3634517
-28,M3H,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.7543283,-79.4422593
-29,M4H,East York,Thorncliffe Park,43.7053689,-79.34937190000001
-30,M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675
-31,M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593
-32,M1J,Scarborough,Scarborough Village,43.7447342,-79.23947609999999
-33,M2J,North York,"Fairview, Henry Farm, Oriole",43.7785175,-79.3465557
-34,M3J,North York,"Northwood Park, York University",43.7679803,-79.48726190000001
-35,M4J,East York/East Toronto,The Danforth  East,43.685347,-79.3381065
-36,M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.6408157,-79.38175229999999
-37,M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497
-38,M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park",43.7279292,-79.26202940000002
-39,M2K,North York,Bayview Village,43.7869473,-79.385975
-40,M3K,North York,Downsview East,43.737473200000004,-79.46476329999999
-41,M4K,East Toronto,"The Danforth West, Riverdale",43.6795571,-79.352188
-42,M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001
-43,M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002
-44,M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",43.711111700000004,-79.2845772
-45,M2L,North York,"York Mills, Silver Hills",43.7574902,-79.37471409999999
-46,M3L,North York,Downsview West,43.7390146,-79.5069436
-47,M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998
-48,M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6481985,-79.37981690000001
-49,M6L,North York,"North Park, Maple Leaf Park, Upwood Park",43.713756200000006,-79.4900738
-50,M9L,North York,Humber Summit,43.7563033,-79.56596329999999
-51,M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.716316,-79.23947609999999
-52,M2M,North York,"Willowdale, Newtonbrook",43.789053,-79.40849279999999
-53,M3M,North York,Downsview Central,43.7284964,-79.49569740000001
-54,M4M,East Toronto,Studio District,43.6595255,-79.340923
-55,M5M,North York,"Bedford Park, Lawrence Manor East",43.7332825,-79.4197497
-56,M6M,York,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.6911158,-79.47601329999999
-57,M9M,North York,"Humberlea, Emery",43.7247659,-79.53224240000002
-58,M1N,Scarborough,"Birch Cliff, Cliffside West",43.692657000000004,-79.2648481
-59,M2N,North York,Willowdale South,43.7701199,-79.40849279999999
-60,M3N,North York,Downsview Northwest,43.7616313,-79.52099940000001
-61,M4N,Central Toronto,Lawrence Park,43.7280205,-79.3887901
-62,M5N,Central Toronto,Roselawn,43.7116948,-79.41693559999999
-63,M6N,York,"Runnymede, The Junction North",43.67318529999999,-79.48726190000001
-64,M9N,York,Weston,43.706876,-79.51818840000001
-65,M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.7574096,-79.27330400000001
-66,M2P,North York,York Mills West,43.752758299999996,-79.4000493
-67,M4P,Central Toronto,Davisville North,43.7127511,-79.3901975
-68,M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001
-69,M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999
-70,M9P,Etobicoke,Westmount,43.696319,-79.53224240000002
-71,M1R,Scarborough,"Wexford, Maryvale",43.750071500000004,-79.2958491
-72,M2R,North York,Willowdale West,43.7827364,-79.4422593
-73,M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001
-74,M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.6727097,-79.40567840000001
-75,M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325
-76,M7R,Mississauga,Enclave of L4W,43.6369656,-79.61581899999999
-77,M9R,Etobicoke,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.6889054,-79.55472440000001
-78,M1S,Scarborough,Agincourt,43.7942003,-79.26202940000002
-79,M4S,Central Toronto,Davisville,43.7043244,-79.3887901
-80,M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493
-81,M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499
-82,M1T,Scarborough,"Clarks Corners, Tam O'Shanter, Sullivan",43.7816375,-79.3043021
-83,M4T,Central Toronto,"Moore Park, Summerhill East",43.6895743,-79.38315990000001
-84,M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493
-85,M1V,Scarborough,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.8152522,-79.2845772
-86,M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493
-87,M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.6289467,-79.3944199
-88,M8V,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",43.6056466,-79.50132070000001
-89,M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.739416399999996,-79.5884369
-90,M1W,Scarborough,"Steeles West, L'Amoreaux West",43.799525200000005,-79.3183887
-91,M4W,Downtown Toronto,Rosedale,43.6795626,-79.37752940000001
-92,M5W,Downtown Toronto Stn A,Enclave of M5E,43.6464352,-79.37484599999999
-93,M8W,Etobicoke,"Alderwood, Long Branch",43.60241370000001,-79.54348409999999
-94,M9W,Etobicoke Northwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale",43.706748299999994,-79.5940544
-95,M1X,Scarborough,Upper Rouge,43.836124700000006,-79.20563609999999
-96,M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753
-97,M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802
-98,M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",43.653653600000005,-79.5069436
-99,M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001
-100,M7Y,East Toronto Business,Enclave of M4L,43.6627439,-79.321558
-101,M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.6362579,-79.49850909999999
-102,M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.6288408,-79.52099940000001
+,name,categories,lng,lat,city
+0,The Bar Room at Temple Court,Hotel Bar,-74.00680157032005,40.7114477287544,New_York
+1,"The Beekman, A Thompson Hotel",Hotel,-74.0067017,40.7111725,New_York
+2,Alba Dry Cleaner & Tailor,Laundry Service,-74.00627233822603,40.71143355866638,New_York
+3,City Hall Park,Park,-74.00779157376718,40.71189313746398,New_York
+4,Gibney Dance Center Downtown,Dance Studio,-74.0056614920451,40.71392316324669,New_York
+5,The Wooly Daily,Coffee Shop,-74.00839457685005,40.71213724343698,New_York
+6,The Class by Taryn Toomey,Gym / Fitness Center,-74.00873355601571,40.71275251771485,New_York
+7,CrossFit 212 TriBeCa,Gym,-74.00599852611592,40.714537431170484,New_York
+8,Takahachi Bakery,Bakery,-74.0088038953017,40.713652845301894,New_York
+9,Aahar Indian Cuisine,Indian Restaurant,-74.00799405698501,40.71330656515891,New_York
+10,Birch Coffee,Coffee Shop,-74.00595340051164,40.71075943494384,New_York
+11,Pisillo Italian Panini,Sandwich Place,-74.00752571804911,40.710530084460785,New_York
+12,Four Seasons Hotel New York Downtown,Hotel,-74.00938032087628,40.71261246501983,New_York
+13,Los Tacos No. 1,Taco Place,-74.008756,40.714267,New_York
+14,The Hummus & Pita Co,Falafel Restaurant,-74.00685274843354,40.714453031801185,New_York
+15,African Burial Ground National Monument,Monument / Landmark,-74.00552975826278,40.71498975306652,New_York
+16,Church Street Boxing Gym,Boxing Gym,-74.00906676030888,40.713353574017404,New_York
+17,Racines,French Restaurant,-74.0075806002039,40.714754151461236,New_York
+18,Woolworth Building,Building,-74.00796435178208,40.712559078189095,New_York
+19,Financial District Wine and Liquor,Liquor Store,-74.00693218119578,40.710984465759886,New_York
+20,Kula Yoga Project,Yoga Studio,-74.00809356840004,40.714342290158086,New_York
+21,Da Claudio,Italian Restaurant,-74.0076387699966,40.71082646010856,New_York
+22,Joe’s Pizza,Pizza Place,-74.007769,40.710178,New_York
+23,Temple Court,American Restaurant,-74.00683195829815,40.7114909233789,New_York
+24,Sophie's Cuban Cuisine,Cuban Restaurant,-74.00765642063459,40.71480295894467,New_York
+25,Shake Shack,Burger Joint,-74.00902390480042,40.71070286896417,New_York
+26,Korin,Furniture / Home Store,-74.00940425461492,40.71482437714839,New_York
+27,Nish Nūsh,Falafel Restaurant,-74.00772452925565,40.71553710116416,New_York
+28,Equinox Tribeca,Gym,-74.0096857179283,40.71409860726041,New_York
+29,Gran Morsi,Italian Restaurant,-74.00792514672226,40.714246192274395,New_York
+0,Café VeloDome (คาเฟ่ เวโลโดม),Café,100.492017,13.755757,bangkok
+1,Temple of the Emerald Buddha (วัดพระศรีรัตนศาสดาราม (วัดพระแก้ว)),Buddhist Temple,100.49265146255493,13.751734643691861,bangkok
+2,Thokkathan-Mother Earth Squeezing Her Hair (พระแม่ธรณีบีบมวยผม อุทกทาน),Spiritual Center,100.49476730464075,13.756601843910255,bangkok
+3,The Grand Palace (พระบรมมหาราชวัง),Palace,100.49117576966269,13.751813689290364,bangkok
+4,Prasat Phra Thep Bidon (ปราสาทพระเทพบิดร),Palace,100.49272,13.751606,bangkok
+5,Siwamokhaphiman Hall (พระที่นั่งศิวโมกขพิมาน),Museum,100.49214,13.757516,bangkok
+6,พระที่นั่งพุทไธสวรรย์,History Museum,100.4921,13.7578945,bangkok
+7,Wat Mahathat Yuwarajarangsarit Rajaworamahavihara (วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร),Buddhist Temple,100.49048941692712,13.755066642937557,bangkok
+8,Bangkok National Museum (พิพิธภัณฑสถานแห่งชาติ พระนคร),History Museum,100.49243957896135,13.757215438529597,bangkok
+9,Tha Prachan (ท่าพระจันทร์),Neighborhood,100.48968227270649,13.756201088298637,bangkok
+10,R-Roy Garlic Bread (ขนมปังกระเทียมร้านอร่อย),Bakery,100.48970096348074,13.756171738063438,bangkok
+11,Tha Maharaj (ท่ามหาราช),Shopping Mall,100.48877081229503,13.754878037656617,bangkok
+12,Starbucks (สตาร์บัคส์),Coffee Shop,100.48869395790238,13.754670359216373,bangkok
+13,After You (อาฟเตอร์ ยู),Dessert Shop,100.48871767001823,13.754922376930377,bangkok
+14,Noa Noa Cafe (โนอะโนอะคาเฟ่),Japanese Restaurant,100.48872712206395,13.754620186987838,bangkok
+15,Favour Café,Café,100.48901740724114,13.754418135459991,bangkok
+16,The National Theatre (โรงละครแห่งชาติ),Theater,100.49286147385915,13.758806021120995,bangkok
+17,นิวย่งฮั้ว โภชนา,Chinese Restaurant,100.489486,13.756221,bangkok
+18,Queen Sirikit Museum of Textiles (พิพิธภัณฑ์ผ้า หอรัษฎากรพิพัฒน์ ในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ),Art Museum,100.49092,13.751957,bangkok
+19,อาคุงเต้าฮวยโบราณ,Dessert Shop,100.489456,13.752773,bangkok
+20,Borom Phiman Mansion (พระที่นั่งบรมพิมาน),Historic Site,100.49297332763672,13.750489295912226,bangkok
+21,Thammasat University Bookstore (ศูนย์หนังสือมหาวิทยาลัยธรรมศาสตร์),College Bookstore,100.48970639705658,13.75657007352386,bangkok
+22,Thai Tham (ลูกชิ้น-มันสมองหมู ไทยทำ),Soup Place,100.4967156272417,13.75180880641601,bangkok
+23,Bite,Wings Joint,100.4888537740267,13.755112626962513,bangkok
+24,ร้านน้อง ท่าพระจันทร์,Record Shop,100.48924032102019,13.756455805279812,bangkok
+25,ศิริโภชนา,Noodle House,100.49717140606322,13.754559748264908,bangkok
+0,Grand Kitchen,American Restaurant,139.7614261221953,35.6840260345373,tokyo
+1,Palace Hotel Tokyo (パレスホテル東京),Hotel,139.761302,35.684644,tokyo
+2,Sushi Kanesaka (鮨 かねさか),Sushi Restaurant,139.761064,35.684559,tokyo
+3,Wadakura Fountain Park (和田倉噴水公園),Park,139.760829,35.683453,tokyo
+4,Amber Palace (琥珀宮),Chinese Restaurant,139.7614580754397,35.684647365903146,tokyo
+5,Kokyo Gaien (皇居外苑),Garden,139.75856189668357,35.679927721917124,tokyo
+6,The Palace Lounge,Lounge,139.7612428665161,35.68452468331624,tokyo
+7,Imperial Palace Plaza (皇居前広場),Plaza,139.75718435640943,35.68009069055314,tokyo
+8,Kikyomon Gate (桔梗門 (内桜田門)),Historic Site,139.758522,35.684016,tokyo
+9,SWEETS & DELI,Dessert Shop,139.76161156513422,35.68441849929843,tokyo
+10,Sakashitamon Gate (坂下門),Historic Site,139.7564556704967,35.68270609521312,tokyo
+11,Wadakuramon Gate (和田倉門跡),Historic Site,139.7614817888174,35.682825940126435,tokyo
+12,Imperial Palace East Garden (皇居東御苑),Park,139.75666165351868,35.68579697581925,tokyo
+13,Delfonics,Paper / Office Supplies Store,139.76395785584342,35.68239795030291,tokyo
+14,Barbacoa Classico,Brazilian Restaurant,139.7640169,35.6824199,tokyo
+15,HEINZ BECK,Italian Restaurant,139.7624176740646,35.68441139601372,tokyo
+16,Royal Bar (ロイヤルバー),Hotel Bar,139.76128964687,35.684615339387,tokyo
+17,Wolfgang's Steakhouse,Steakhouse,139.76213368382767,35.67918500654332,tokyo
+18,Otemon Gate (大手門),Historic Site,139.760138,35.68609,tokyo
+19,Monna Lisa (モナリザ),French Restaurant,139.76371049880981,35.681189584848525,tokyo
+20,Seijo Ishii (成城石井),Supermarket,139.76417183876038,35.68245062875336,tokyo
+21,Sawamura (欧風小皿料理 沢村),Mediterranean Restaurant,139.76371932794288,35.68259449571453,tokyo
+22,Dashi-chazuke En (だし茶漬け えん),Japanese Restaurant,139.76423084735868,35.68255520422372,tokyo
+23,Apple Marunouchi (Apple 丸の内),Electronics Store,139.763871,35.680199,tokyo
+24,RIGOLETTO WINE AND BAR,Wine Bar,139.764502,35.682459,tokyo
+25,STAND T,Bar,139.76453316983677,35.68216997802949,tokyo
+26,Tenmasa (天政),Tempura Restaurant,139.764002,35.681308,tokyo
+27,Hibiki (響),Sake Bar,139.76343154907227,35.68307453922952,tokyo
+28,Maker's Shirt Kamakura (メーカーズシャツ鎌倉),Clothing Store,139.7637641429901,35.681178282885604,tokyo
+29,Moritaya (モリタ屋),Sukiyaki Restaurant,139.763565,35.681321,tokyo
